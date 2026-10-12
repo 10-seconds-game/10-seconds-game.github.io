@@ -1,7 +1,8 @@
 Material scans from ambientCG (https://ambientcg.com), resized for this game (public/textures/):
   plaster   <- Plaster001     https://ambientcg.com/a/Plaster001     (colour made grey: it is tinted by each wall's colour)
-  woodfloor <- WoodFloor051   https://ambientcg.com/a/WoodFloor051
-  hallTiles <- Tiles074       https://ambientcg.com/a/Tiles074
+  travertine <- Travertine009 https://ambientcg.com/a/Travertine009
+  whiteMarble <- Marble021   https://ambientcg.com/a/Marble021
+  blackMarble <- Marble006   https://ambientcg.com/a/Marble006
   carpet    <- Carpet016      https://ambientcg.com/a/Carpet016      (colour made grey)
   marble    <- Marble012      https://ambientcg.com/a/Marble012      (colour made grey)
   wood      <- Wood049        https://ambientcg.com/a/Wood049        (colour made grey)
