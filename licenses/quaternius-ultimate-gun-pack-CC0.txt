@@ -1,0 +1,15 @@
+Ultimate Gun Pack by Quaternius - "Pistol_5" (converted from OBJ to public/models/guns/Pistol_5.glb), the handgun in your hands.
+Source: https://quaternius.itch.io/50-lowpoly-guns
+
+------------------------------------------------------
+LowPoly Models by @Quaternius
+Consider supporting me on Patreon, even $1 helps me a lot!
+
+https://www.patreon.com/quaternius
+-------------------------------------------------------
+
+License:
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
