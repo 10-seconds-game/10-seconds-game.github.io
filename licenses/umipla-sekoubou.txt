@@ -1,0 +1,9 @@
+「銃声-11」(se_gun_fire11) — 効果音工房 https://umipla.com/attack
+Used as the sound of every shot, the player's and the soldiers' (public/audio/gunshot.wav:
+the first 0.6 s of the original, mono, 24 kHz).
+
+Terms (https://umipla.com/利用規約): individuals and circles may use the sounds in commercial
+and non-commercial works, with no report, link or credit required; editing for use is allowed.
+Not allowed: redistributing the sound material itself (or edited versions), unlawful use.
+A corporation using them must contact the site, credit it in the work (or where the work is
+published), and tell them the work's name and URL.
