@@ -1,0 +1,7 @@
+「ガラスが割れる2」(glass-break2) — 効果音ラボ https://soundeffect-lab.info/sound/battle/
+Used as the sound of FUTURE ALTERED (public/audio/future-altered.wav: a cut of the original, mono, 24 kHz).
+
+Terms (https://soundeffect-lab.info/agreement/): free for personal and commercial use, no
+credit or link required; editing for use is allowed. Not allowed: redistributing the sound
+material itself (or edited versions of it), direct links to their files, use in adult or
+unlawful works, use as AI training data, registering it for Content ID / sound trademarks.

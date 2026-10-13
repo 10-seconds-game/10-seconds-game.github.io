@@ -1,0 +1,8 @@
+「ラジオ1」(radio_noise1) by 小森平 — 無料効果音 https://taira-komori.net/noise01.html
+Used as the sound of the ability's vision starting and ending (public/audio/vision-zap.wav:
+a 0.42 s cut of the original, mono, 24 kHz).
+
+Terms (https://taira-komori.net/welcome.html): free for commercial use, in games and apps;
+editing / converting the files and embedding them in products is allowed; no credit or
+prior notice required. Not allowed: redistributing or selling the sound material itself,
+claiming it as one's own. (c) Taira Komori
